@@ -15,7 +15,7 @@ body {
   height: 100vh;
   position: relative;
   overflow-y: hidden;
-  min-height: 110vh;
+  min-height: 120vh;//making changes in height by vanshika
 }
 .about {
 
